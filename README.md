@@ -1,6 +1,7 @@
 # Three Bugs
+This project was an assignment while I was at Prime Digital Academy. The purpose of the excercise was to take someone elses code and go through to find three issues that were in the code. The code was for an application to calculate an employees short term incentive (STI) bonus for their salary. 
 
-Hello!
+#Assigment Details
 
 In this challenge, you will be flexing your debugging muscle. The code provided has three significant bugs in it to produce a result that is undesirable. You will need to go through and figure out where the bugs exist and make the needed corrections to produce a better looking result.
 
